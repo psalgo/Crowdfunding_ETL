@@ -1,1 +1,2 @@
-# Crowdfunding_ETL
+Welcome to our ETL mini project! In this project, we will be working together to build a robust ETL pipeline using Python and Pandas. The goal is to extract data from a source, transform it using either Python dictionary methods or regular expressions, and then load the transformed data into a Postgres database. To ensure clarity and organization, we will be creating four CSV files representing different aspects of the transformed data. Additionally, we will use the CSV data to construct an Entity-Relationship Diagram (ERD) and define a corresponding table schema for the Postgres database.
+For this project Paul and I used ASKBCS, ChatGPT, Google, and Youtube as our resources
